@@ -1,6 +1,6 @@
 # mycloud1
 
-> My cloude website #1 using Nuxt.js
+> Nuxt.js project
 
 ## Build Setup
 
