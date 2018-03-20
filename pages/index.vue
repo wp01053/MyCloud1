@@ -6,7 +6,7 @@
         mycloud1
       </h1>
       <h2 class="subtitle">
-        My cloude website #1 using Nuxt.js
+        Nuxt.js project
       </h2>
       <div class="links">
         <a
